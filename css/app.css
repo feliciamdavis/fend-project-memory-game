@@ -72,13 +72,14 @@ h1 {
 }
 
 .deck .card.show {
-    font-size: 33px;
+    font-size: 70px;
+    transition: font-size 0.3s;
 }
 
 .deck .card.match {
     cursor: default;
     background: #02ccba;
-    font-size: 33px;
+    font-size: 70px;
 }
 
 /*
@@ -101,6 +102,10 @@ h1 {
 .score-panel .stars li {
     list-style: none;
     display: inline-block;
+}
+
+.score-panel .time {
+    padding-left: 2em;
 }
 
 .score-panel .restart {

@@ -1,4 +1,6 @@
-# Memory Game Project
+# Halloween Memory Game Project
+
+This is a project I worked on as part of my Udacity Nanodegree program.
 
 ## Table of Contents
 
